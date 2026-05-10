@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+
+# NuGet
+*.nupkg
+packages/
+
+# VS Code
+.vscode/
+
+# Other
+*.log
+*/.vs/*
